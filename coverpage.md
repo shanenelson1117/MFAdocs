@@ -9,6 +9,6 @@ My Favorite Albums is a tool that allows users with minimal programming experien
 If you want to use My Favorite Albums to view your music rankings, choose Get Started (Users). Documentation labeled 'Users' will be useful to you. If you want to build on top of My Favorite Albums to create enhanced functionality, choose Get Started (Developers). Documentation labeled 'Developers' will be more useful to you.
 
 
-[Get Started (Developers)](#home-page-devs)
+[Get Started (Developers)](READMEcopy.md)
 [Get Started (Users)](#home-page-end-users)
 
