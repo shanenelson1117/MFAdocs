@@ -31,4 +31,4 @@ Developers must have the following software and packages installed to run My Fav
 * [**R**](https://cran.r-project.org)  
 * [**RStudio**](https://posit.co/download/rstudio-desktop)
 
-Both packages can be easily downloaded by running **install.packages(c("shiny", "dplyr", "ggplot2"))** in an R-Studio terminal. Users must also download the My Favorite Albums codebase from [https://github.com/UW-Example-Student/MyFavoriteAlbums/blob/main/](https://github.com/UW-Example-Student/MyFavoriteAlbums/blob/main/README.md). 
+Both packages can be easily downloaded by running **`install.packages(c("shiny", "dplyr", "ggplot2"))`** in an RStudio terminal. Users must also download the My Favorite Albums codebase from [https://github.com/UW-Example-Student/MyFavoriteAlbums/blob/main/](https://github.com/UW-Example-Student/MyFavoriteAlbums/blob/main/README.md). 
