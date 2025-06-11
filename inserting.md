@@ -1,6 +1,6 @@
 # Inserting your own data into My Favorite Albums
 
-This tutorial assumes that you have R, RStudio, and My Favorite Albums downloaded. See prerequisite downloads if you do not.
+This tutorial assumes that you have R, RStudio, and My Favorite Albums downloaded. See [prerequisite downloads](prereq.md) if you do not.
 
 1. Within the R Studio app, open the My Favorite Albums project by clicking on **File \-\> Open Project** in the top menu and selecting the downloaded and unzipped **MyFavoriteAlbums-main** folder.  
 2. In the bottom right pane there should be a file viewer, click on the **data** folder and then click on **album-rankings.csv.** 
